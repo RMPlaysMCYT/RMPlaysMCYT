@@ -12,6 +12,8 @@ Here's one of my works:
 - Props and Furnitures Addon
 ![logo](https://media.forgecdn.net/attachments/1168/576/pafa_keyart8k-2024-10-08-1_gimp-jpg2k-cf-jpg.jpg)
 
+I'm gonna share also most of my non-minecraft stuff here in the future so check it out 
+
 <!--
 **RMPlaysMCYT/RMPlaysMCYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
