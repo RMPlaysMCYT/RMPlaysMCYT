@@ -1,5 +1,5 @@
-## Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
-
+## Welcome to my Github Page
+Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
 I'm a Minecraft Add-on Creator who's currently studying as an BSIT Student in 2nd Year Here in Philippines
 
 Most of my works here are made for minecraft players out there and I hope you understand me
