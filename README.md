@@ -6,11 +6,11 @@ Most of my works here are made for minecraft players out there and I hope you un
 Here's one of my works:
 
 - Simple Vehicles Addon
-![image](https://media.forgecdn.net/attachments/1168/584/2024-08-20-033-jpg.jpg)
+[![image](https://media.forgecdn.net/attachments/1168/584/2024-08-20-033-jpg.jpg)](https://www.curseforge.com/minecraft-bedrock/addons/simple-vehicles-add-on-bedrock)
 - Plane Addon
-![thumbnail](https://media.forgecdn.net/attachments/1168/562/2024-2-14-01-1k-jpg.jpg)
+[![thumbnail](https://media.forgecdn.net/attachments/1168/562/2024-2-14-01-1k-jpg.jpg)](https://github.com/RMPlaysMCYT/PlaneAddon)
 - Props and Furnitures Addon
-![logo](https://media.forgecdn.net/attachments/1168/576/pafa_keyart8k-2024-10-08-1_gimp-jpg2k-cf-jpg.jpg)
+[![logo](https://media.forgecdn.net/attachments/1168/576/pafa_keyart8k-2024-10-08-1_gimp-jpg2k-cf-jpg.jpg)](https://www.curseforge.com/minecraft-bedrock/addons/props-and-furnitures-addon)
 
 I'm gonna share also most of my non-minecraft stuff here in the future so check it out 
 
