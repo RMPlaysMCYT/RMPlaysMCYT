@@ -2,7 +2,7 @@
 Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
 I'm a Minecraft Add-on Creator who's currently studying as an BSIT Student in 2nd Year Here in Philippines
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RMPlaysMCYT)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RMPlaysMCYT)](https://git.io/streak-stats)
 
 Most of my works here are made for minecraft players out there and I hope you understand me
 Here's one of my works:
