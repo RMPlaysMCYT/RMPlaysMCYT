@@ -1,7 +1,7 @@
 ## Welcome to my Github Page
 Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
 I'm a Minecraft Add-on Creator who's currently studying as an BSIT Student in 2nd Year Here in Philippines
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RMPlaysMCYT)](https://git.io/streak-stats)
 Most of my works here are made for minecraft players out there and I hope you understand me
 Here's one of my works:
 
@@ -13,6 +13,7 @@ Here's one of my works:
 [![logo](https://media.forgecdn.net/attachments/1168/576/pafa_keyart8k-2024-10-08-1_gimp-jpg2k-cf-jpg.jpg)](https://www.curseforge.com/minecraft-bedrock/addons/props-and-furnitures-addon)
 
 I'm gonna share also most of my non-minecraft stuff here in the future so check it out 
+
 
 <!--
 **RMPlaysMCYT/RMPlaysMCYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
