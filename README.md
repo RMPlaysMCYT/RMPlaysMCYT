@@ -9,7 +9,7 @@ Well I'm also here for do any services even non-minecraft stuff such as:
 * Graphics Design (Intermediate)
 * 3D Modeling (Intermediate)
 * Software Designer (Intermediate)
-* Basic Web Development (Intermediate - Currently on Vanilla HTML and CSS)
+* Basic Web Development (Intermediate Currently on Vanilla HTML and CSS Not on other frameworks)
 * Basic Software Development(Beginner)
 
 <div align="center">
@@ -18,6 +18,7 @@ Well I'm also here for do any services even non-minecraft stuff such as:
    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
    <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
    <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
+   <img src="https://img.shields.io/badge/Blockbench-%231E93D9?style=for-the-badge&logo=blockbench&logoColor=%23ffffff&logoSize=auto&link=blockbench.net">
 </div>
 
 <div align="center">
