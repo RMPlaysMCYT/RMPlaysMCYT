@@ -5,8 +5,9 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RMPlaysMCYT)](https://git.io/streak-stats)
 
 Well I'm also here for:
-### Design
-![image]({[[[BadgeURLHere](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)][https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white]})
+### Design: 
+
+![image]({[[[[BadgeURLHere](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)})
 
 
 Most of my works here are made for minecraft players out there and I hope you understand me
