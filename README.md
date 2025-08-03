@@ -1,11 +1,11 @@
 ## Welcome to my Github Page
 Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
 I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd Year Here in Philippines
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RMPlaysMCYT)](https://git.io/streak-stats)
-
+<div align="center">
+ <img src="https://streak-stats.demolab.com?user=RMPlaysMCYT">
+</div>
 Well I'm also here for:
- <div style="align-items: center; text-align: center;">
+<div align="center">
    <h3>Design with these tools:</h3>
    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
@@ -13,10 +13,11 @@ Well I'm also here for:
    <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
  </div>
 
-![image]() ![image]() ![image]() ![image]() 
-
-### OS Used:
-![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![image](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+OS used daily:
+<div align="center">
+   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
+   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
+</div>
 
 ### My Laptop Specs:
 ![image](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white) 
