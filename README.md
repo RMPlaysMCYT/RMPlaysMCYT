@@ -22,8 +22,8 @@ Well I'm also here for do any services even non-minecraft stuff such as:
 
 <div align="center>
  <h3>IDEs used in development: </h3>
- <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 <h3 align="center">OS used daily:
