@@ -6,17 +6,18 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 
 Well I'm also here for:
 ### Design: 
-![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![image](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![image](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)
+![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![image](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![image](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white) 
 
 ### OS Used:
-
+![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![image](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 ### My Laptop Specs:
+![image](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white) 
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark) ![image](https://gists-readme.yizack.com/api?user=RMPlaysMCYT)
 
 Most of my works here are made for minecraft players out there and I hope you understand me
 Here's one of my works:
-
 - Simple Vehicles Addon
 [![image](https://media.forgecdn.net/attachments/1168/584/2024-08-20-033-jpg.jpg)](https://www.curseforge.com/minecraft-bedrock/addons/simple-vehicles-add-on-bedrock)
 - Plane Addon
@@ -25,6 +26,7 @@ Here's one of my works:
 [![logo](https://media.forgecdn.net/attachments/1168/576/pafa_keyart8k-2024-10-08-1_gimp-jpg2k-cf-jpg.jpg)](https://www.curseforge.com/minecraft-bedrock/addons/props-and-furnitures-addon)
 
 I'm gonna share also most of my non-minecraft stuff here in the future so check it out 
+
 
 
 <!--
