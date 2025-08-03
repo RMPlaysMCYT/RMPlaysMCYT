@@ -4,7 +4,14 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=RMPlaysMCYT">
 </div>
-Well I'm also here for:
+
+Well I'm also here for do any services even non-minecraft stuff such as:
+* Graphics Design (Intermediate)
+* 3D Modeling (Intermediate)
+* Software Designer (Intermediate)
+* Basic Web Development (Intermediate - Currently on Vanilla HTML and CSS)
+* Basic Software Development(Beginner)
+
 <div align="center">
    <h3>Design with these tools:</h3>
    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
@@ -12,6 +19,12 @@ Well I'm also here for:
    <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
    <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
  </div>
+
+<div align="center>
+ <h3>IDEs used in development: </h3>
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+</div>
 
 <h3 align="center">OS used daily:
 <div align="center">
@@ -22,7 +35,8 @@ Well I'm also here for:
  <h3>Laptop:</h3><img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"><br>
 </div>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark) ![image](https://gists-readme.yizack.com/api?user=RMPlaysMCYT)
+### Languages Mostly used for now:
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark)
 
 Most of my works here are made for minecraft players out there and I hope you understand me
 Here's one of my works:
