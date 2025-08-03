@@ -5,8 +5,15 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RMPlaysMCYT)](https://git.io/streak-stats)
 
 Well I'm also here for:
-### Design: 
-![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![image](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![image](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white) ![image](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white) 
+ <div style="align-items: center; text-align: center;">
+   <h3>Design with these tools:</h3>
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+   <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
+   <img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white">
+ </div>
+
+![image]() ![image]() ![image]() ![image]() 
 
 ### OS Used:
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![image](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
