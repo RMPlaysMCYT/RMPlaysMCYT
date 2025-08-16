@@ -3,6 +3,7 @@ Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
 I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd Year Here in Philippines
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=RMPlaysMCYT">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark">
 </div>
 
 Well I'm also here for do any services even non-minecraft stuff such as:
@@ -36,9 +37,6 @@ Well I'm also here for do any services even non-minecraft stuff such as:
 <div align="center">
  <h3>Laptop:</h3><img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"><br>
 </div>
-
-### Languages Mostly used for now:
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark)
 
 Most of my works here are made for minecraft players out there and I hope you understand me
 Here's one of my works:
