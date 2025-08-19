@@ -6,6 +6,8 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark">
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMPlaysMCYT&show_icons=true&bg_color=00000000)
+
 Well I'm also here for do any services even non-minecraft stuff such as:
 * Graphics Design (Intermediate)
 * 3D Modeling (Intermediate)
