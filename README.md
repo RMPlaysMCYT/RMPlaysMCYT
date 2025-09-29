@@ -3,10 +3,12 @@ Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
 I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd Year Here in Philippines
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=RMPlaysMCYT">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark">
+ <img src="https://github-readme-stats.vercel.app/api?username=RMPlaysMCYT&show_icons=true&bg_color=00000000">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMPlaysMCYT&show_icons=true&bg_color=00000000)
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark">
+</div>
 
 Well I'm also here for do any services even non-minecraft stuff such as:
 ### Graphics Design (Intermediate)
