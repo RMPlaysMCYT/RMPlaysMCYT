@@ -1,6 +1,5 @@
-## Welcome to my Github Page
-Hi there 👋, It's me RMPlaysMCYT but call me Ronnel anyway
-I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd Year Here in Philippines
+# Welcome to my Github Page, It's me RMPlaysMCYT but call me Ronnel anyway
+I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd Year Here in Philippines also studying numerous stuff especially non-minecraft stuff yet still exploring regardless and I hope you will enjoy my works 
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=RMPlaysMCYT">
  <img src="https://github-readme-stats.vercel.app/api?username=RMPlaysMCYT&show_icons=true&bg_color=00000000">
@@ -10,7 +9,7 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark">
 </div>
 
-Well I'm also here for do any services even non-minecraft stuff such as:
+## Well I'm also here for do any services even non-minecraft stuff such as:
 ### Graphics Design (Intermediate)
 *  UI/UX Design
 *  Poster Design
@@ -26,6 +25,10 @@ Well I'm also here for do any services even non-minecraft stuff such as:
 * Flutter
 * Flet
 * React Native
+### Game Development
+* Minecraft Bedrock (Maps, Skins, Add-ons, Textures)
+* Minecraft Java (Skins)
+* Godot (Beginner)
 
 <div align="center">
    <h3>Design with these tools:</h3>
