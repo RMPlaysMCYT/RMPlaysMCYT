@@ -9,11 +9,16 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMPlaysMCYT&show_icons=true&bg_color=00000000)
 
 Well I'm also here for do any services even non-minecraft stuff such as:
-* Graphics Design (Intermediate)
-* 3D Modeling (Intermediate)
-* Software Designer (Intermediate)
-* Basic Web Development (Intermediate Currently on Vanilla HTML and CSS Not on other frameworks)
-* Basic Software Development(Beginner)
+### Graphics Design (Intermediate)
+*  UI/UX Design
+*  Poster
+### 3D Modeling (Intermediate)
+### Software Designer (Intermediate)
+### Web Development 
+* Vanilla (HTML, CSS, JavaScript)
+* Laravel (PHP)
+* React (JavaScript, Beginner)
+### Basic Software Development(Beginner, Vanilla and React)
 
 <div align="center">
    <h3>Design with these tools:</h3>
