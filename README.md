@@ -13,7 +13,8 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 Well I'm also here for do any services even non-minecraft stuff such as:
 ### Graphics Design (Intermediate)
 *  UI/UX Design
-*  Poster
+*  Poster Design
+*  Social Media Design
 ### 3D Modeling (Intermediate)
 ### Software Designer (Intermediate)
 ### Web Development 
