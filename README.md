@@ -67,6 +67,8 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
    <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
    <!-- <img src="">
    <img src=""> -->
 </div>
