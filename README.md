@@ -59,15 +59,16 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">
    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
- <h3 align="center>Frameworks That I Used well mostly is beginner for now:</h3>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-  <!-- <img src="">
-  <img src=""> -->
+ 
+  <h3 align="center">Frameworks That I Used well mostly is beginner for now:</h3>
+   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+   <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+   <!-- <img src="">
+   <img src=""> -->
 </div>
 
 <div align="center">
