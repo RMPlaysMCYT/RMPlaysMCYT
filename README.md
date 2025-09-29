@@ -21,7 +21,11 @@ Well I'm also here for do any services even non-minecraft stuff such as:
 * Vanilla (HTML, CSS, JavaScript)
 * Laravel (PHP)
 * React (JavaScript, Beginner)
-### Basic Software Development(Beginner at Vanilla, React Native, Flutter)
+### Basic Software Development(Beginner for now)
+* Native
+* Flutter
+* Flet
+* React Native
 
 <div align="center">
    <h3>Design with these tools:</h3>
