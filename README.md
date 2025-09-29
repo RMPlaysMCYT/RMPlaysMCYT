@@ -49,6 +49,16 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
  <h3 align="center">OS used daily:</h3>
    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
+  <h3 align="center">Programming Langauges:</h3>
+   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
+   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
+   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">
+   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
 </div>
 
 <div align="center">
