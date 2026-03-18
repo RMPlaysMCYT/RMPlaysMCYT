@@ -1,5 +1,6 @@
 # Welcome to my Github Page, It's me RMPlaysMCYT but call me Ronnel anyway
 I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd Year Here in Philippines also studying numerous stuff especially non-minecraft stuff yet still exploring regardless and I hope you will enjoy my works 
+
 <!-- <div align="center">
  <img src="https://streak-stats.demolab.com?user=RMPlaysMCYT">
  <img src="https://github-readme-stats.vercel.app/api?username=RMPlaysMCYT&show_icons=true&bg_color=00000000">
@@ -8,6 +9,8 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMPlaysMCYT&theme=dark">
 </div> -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMPlaysMCYT)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Well I'm also here for do any services even non-minecraft stuff such as:
 ### Graphics Design (Intermediate)
