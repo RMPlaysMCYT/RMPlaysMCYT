@@ -43,7 +43,7 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 </div>
 
 <div align="center">
- <h3>IDEs used in development: </h3>
+ <h3>IDE/Editorss used in development: </h3>
  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
@@ -53,25 +53,28 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
   <h3 align="center">Programming Langauges:</h3>
-   <img style="scale: 110%;" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff">
-   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
-   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">
-   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
+   <img style="scale: 110%;" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff">
+   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+   <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff">
+   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
+   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&&logo=php&logoColor=white">
+   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
  
   <h3 align="center">Frameworks That I Used well mostly is beginner for now:</h3>
-   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
-   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-   <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?logo=tauri&logoColor=%23FFFFFF">
-   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
-   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff">
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff">
+   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+   <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+   <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF">
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff">
+   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff">
    <!-- <img src="">
    <img src=""> -->
 </div>
