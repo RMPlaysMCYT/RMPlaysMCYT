@@ -24,10 +24,9 @@ I'm a Minecraft Add-on Creator who's currently studying BSIT Student now in 3nd 
 * Laravel (PHP)
 * React (JavaScript, Beginner)
 ### Basic Software Development(Beginner for now)
-* Native
+* Slint
 * Flutter
-* Flet
-* React Native
+* AvaloniaUI
 ### Game Development
 * Minecraft Bedrock (Maps, Skins, Add-ons, Textures)
 * Minecraft Java (Skins)
